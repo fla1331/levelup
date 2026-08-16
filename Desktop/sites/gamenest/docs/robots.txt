@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /404.html
+
+Sitemap: https://levelup.brightnest.blog/pt/sitemap.xml
+Sitemap: https://levelup.brightnest.blog/en/sitemap.xml
+Sitemap: https://levelup.brightnest.blog/es/sitemap.xml
